@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "0.3.7",
-  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.7.apk",
-  "notes": "Nowość: skanowanie opakowania. Kod z pudełka wypełnia nazwę i moc leku z oficjalnego rejestru, dodaje termin ważności i link do ulotki."
+  "versionCode": 109,
+  "versionName": "0.3.9",
+  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.9.apk",
+  "notes": "Naprawa skanera: lek jest teraz wczytywany z bazy, a formularz pokazuje zeskanowany kod."
 }
