@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "0.3.11",
-  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.11.apk",
-  "notes": "Etapy dawkowania: zwiększanie dawki i stopniowe odstawianie. Skanowanie opakowania w edycji leku. Przy skanowaniu leku, który już jest, propozycja uaktualnienia."
+  "versionCode": 114,
+  "versionName": "0.3.14",
+  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.14.apk",
+  "notes": "Nowa zakładka Zdrowie: ostrzeżenia o interakcjach między lekami z listy (baza DDInter, offline) i o tym samym składniku w dwóch lekach."
 }
