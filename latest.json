@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "0.3.10",
-  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.10.apk",
-  "notes": "W trybie samolotowym przypomnienia przychodzą po cichu. Szybsze wykrywanie aktualizacji."
+  "versionCode": 111,
+  "versionName": "0.3.11",
+  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.11.apk",
+  "notes": "Etapy dawkowania: zwiększanie dawki i stopniowe odstawianie. Skanowanie opakowania w edycji leku. Przy skanowaniu leku, który już jest, propozycja uaktualnienia."
 }
