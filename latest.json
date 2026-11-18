@@ -1,6 +1,6 @@
 {
-  "versionCode": 114,
-  "versionName": "0.3.14",
-  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.14.apk",
-  "notes": "Nowa zakładka Zdrowie: ostrzeżenia o interakcjach między lekami z listy (baza DDInter, offline) i o tym samym składniku w dwóch lekach."
+  "versionCode": 115,
+  "versionName": "0.3.15",
+  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.15.apk",
+  "notes": "Moje samopoczucie (zakładka Zdrowie): dziennik nastroju i objawów oraz sprawdzanie objawu w ulotkach Twoich leków."
 }
