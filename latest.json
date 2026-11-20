@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "0.3.20",
-  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.20.apk",
-  "notes": "Osoby (np. Dziecko): osobne leki, przypomnienia i dziennik. Pora Południe. Zalecenia lekarza ze zdjęcia (tylko druk, każde pole do sprawdzenia)."
+  "versionCode": 122,
+  "versionName": "0.3.22",
+  "apkUrl": "https://raw.githubusercontent.com/blssebastianrogalski-jpg/apka-leki-wydania/main/apk/leki-i-woda-0.3.22.apk",
+  "notes": "Pory dnia przy leku można zaznaczać razem: tylko rano, rano i wieczór albo 3 razy dziennie."
 }
